@@ -19,4 +19,5 @@ Linguagens que eu quero aprender ✔️
 
 - [ ] Python
 - [ ] A sua
+- [ ] luri
 <!--  -->
